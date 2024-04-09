@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+    margin: 20px auto;
+}
+
+#open-gift {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+#open-gift:hover {
+    background-color: #0062cc;
+}
+
+  
